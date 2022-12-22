@@ -1,7 +1,7 @@
 - 👋 Hi, I’m HuiChaoZhang
 - 👀 I’m interested in distributed system and storage engineer
 - 🌱 I’m currently learning bustub
-- 💞️ I’m looking to collaborate on rocksdb or mysql
+- 💞️ I’m looking to collaborate on dist-db systems
 - 📫 Wechat：375046019
 
 <!---
