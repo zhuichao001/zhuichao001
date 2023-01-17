@@ -1,5 +1,5 @@
 - 📫 Hi, I’m HuiChaoZhang, Wechat：375046019
-- 👀 I’m dedicated to distributed database and storage field
+- 👀 I’m dedicated to distributed database and storage
 
 <!---
 zhuichao001/zhuichao001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
