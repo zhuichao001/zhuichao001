@@ -1,4 +1,4 @@
-- 📫 Hi, I’m HuiChaoZhang, Wechat：375046019
+- ✨ Hi, I’m HuiChaoZhang, Wechat：375046019
 - 👀 I’m dedicated to distributed database and storage
 
 <!---
