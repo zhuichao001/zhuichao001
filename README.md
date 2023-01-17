@@ -1,8 +1,6 @@
-- 👋 Hi, I’m HuiChaoZhang
+- 📫 Hi, I’m HuiChaoZhang, Wechat：375046019
 - 👀 I’m interested in distributed system and storage engineer
-- 🌱 I’m currently learning bustub
 - 💞️ I’m looking to collaborate on dist-db systems
-- 📫 Wechat：375046019
 
 <!---
 zhuichao001/zhuichao001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
